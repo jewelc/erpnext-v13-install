@@ -95,3 +95,8 @@ bench get-app https://github.com/jewelc/sslcommerz.git
 
 bench --site <site name> install-app sslcommerz
 
+
+Bench version upgrade:
+=====================
+sudo pip3 install --upgrade frappe-bench
+
