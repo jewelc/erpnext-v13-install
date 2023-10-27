@@ -67,6 +67,8 @@ sudo apt-get install xvfb libfontconfig wkhtmltopdf
 
 sudo -H pip3 install frappe-bench
 
+pip3 install --upgrade frappe-bench  ==>To upgrade bench version
+
 bench --version
 
 bench init --frappe-branch version-13 frappe-bench13
