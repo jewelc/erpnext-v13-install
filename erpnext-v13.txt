@@ -4,7 +4,6 @@ https://github.com/D-codE-Hub/Guide-to-Install-Frappe-ERPNext-in-Ubuntu-22.04-LT
 
 
 sudo apt-get install python3-dev
-sudo apt-get install python3-dev
 sudo apt-get install virtualenv
 # Check python version
 python3 -V
