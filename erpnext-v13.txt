@@ -59,7 +59,7 @@ source ~/.profile
 nvm install 14.15.0   (installs node version 14.xx.x)
 nvm alias default 16.14.2 (Set default node version)
 +++++++++++++
-udo apt --fix-broken install
+sudo apt --fix-broken install
 sudo apt update
 sudo apt remove nodejs
 sudo apt remove nodejs-doc
